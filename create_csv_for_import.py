@@ -9,10 +9,10 @@ import os
 #            INPUT
 # ---------------------------------
 # Define file path
-file_path = "./files_small"
+file_path = "../files"
 
 # Define a starting ID #
-count = 10
+count = 16
 # ---------------------------------
 
 # Function to create a post dictionary
